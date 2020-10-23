@@ -1,0 +1,10 @@
+C:\Users\Magbusjap\source\repos\homework8\homework8\bin\Debug\BelieveOrNotBelieve.exe.config
+C:\Users\Magbusjap\source\repos\homework8\homework8\bin\Debug\BelieveOrNotBelieve.exe
+C:\Users\Magbusjap\source\repos\homework8\homework8\bin\Debug\BelieveOrNotBelieve.pdb
+C:\Users\Magbusjap\source\repos\homework8\homework8\obj\Debug\homework8.csprojAssemblyReference.cache
+C:\Users\Magbusjap\source\repos\homework8\homework8\obj\Debug\homework8.Form1.resources
+C:\Users\Magbusjap\source\repos\homework8\homework8\obj\Debug\BelieveOrNotBelieve.Properties.Resources.resources
+C:\Users\Magbusjap\source\repos\homework8\homework8\obj\Debug\homework8.csproj.GenerateResource.cache
+C:\Users\Magbusjap\source\repos\homework8\homework8\obj\Debug\homework8.csproj.CoreCompileInputs.cache
+C:\Users\Magbusjap\source\repos\homework8\homework8\obj\Debug\BelieveOrNotBelieve.exe
+C:\Users\Magbusjap\source\repos\homework8\homework8\obj\Debug\BelieveOrNotBelieve.pdb

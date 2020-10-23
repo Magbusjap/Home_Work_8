@@ -1,0 +1,10 @@
+C:\Users\Magbusjap\source\repos\CSharpLevel1\Lesson8\BelieveOrNotBelieve\bin\Debug\BelieveOrNotBelieve.exe.config
+C:\Users\Magbusjap\source\repos\CSharpLevel1\Lesson8\BelieveOrNotBelieve\bin\Debug\BelieveOrNotBelieve.exe
+C:\Users\Magbusjap\source\repos\CSharpLevel1\Lesson8\BelieveOrNotBelieve\bin\Debug\BelieveOrNotBelieve.pdb
+C:\Users\Magbusjap\source\repos\CSharpLevel1\Lesson8\BelieveOrNotBelieve\obj\Debug\BelieveOrNotBelieve.csprojAssemblyReference.cache
+C:\Users\Magbusjap\source\repos\CSharpLevel1\Lesson8\BelieveOrNotBelieve\obj\Debug\BelieveOrNotBelieve.Form1.resources
+C:\Users\Magbusjap\source\repos\CSharpLevel1\Lesson8\BelieveOrNotBelieve\obj\Debug\BelieveOrNotBelieve.Properties.Resources.resources
+C:\Users\Magbusjap\source\repos\CSharpLevel1\Lesson8\BelieveOrNotBelieve\obj\Debug\BelieveOrNotBelieve.csproj.GenerateResource.cache
+C:\Users\Magbusjap\source\repos\CSharpLevel1\Lesson8\BelieveOrNotBelieve\obj\Debug\BelieveOrNotBelieve.csproj.CoreCompileInputs.cache
+C:\Users\Magbusjap\source\repos\CSharpLevel1\Lesson8\BelieveOrNotBelieve\obj\Debug\BelieveOrNotBelieve.exe
+C:\Users\Magbusjap\source\repos\CSharpLevel1\Lesson8\BelieveOrNotBelieve\obj\Debug\BelieveOrNotBelieve.pdb

@@ -1,0 +1,10 @@
+D:\Magbusjap\База знаний разработчика\000. New C# поток\Homework_8\homework8_Two\bin\Debug\homework8_Two.exe.config
+D:\Magbusjap\База знаний разработчика\000. New C# поток\Homework_8\homework8_Two\bin\Debug\homework8_Two.exe
+D:\Magbusjap\База знаний разработчика\000. New C# поток\Homework_8\homework8_Two\bin\Debug\homework8_Two.pdb
+D:\Magbusjap\База знаний разработчика\000. New C# поток\Homework_8\homework8_Two\obj\Debug\homework8_Two.csprojAssemblyReference.cache
+D:\Magbusjap\База знаний разработчика\000. New C# поток\Homework_8\homework8_Two\obj\Debug\homework8_Two.Form1.resources
+D:\Magbusjap\База знаний разработчика\000. New C# поток\Homework_8\homework8_Two\obj\Debug\homework8_Two.Properties.Resources.resources
+D:\Magbusjap\База знаний разработчика\000. New C# поток\Homework_8\homework8_Two\obj\Debug\homework8_Two.csproj.GenerateResource.cache
+D:\Magbusjap\База знаний разработчика\000. New C# поток\Homework_8\homework8_Two\obj\Debug\homework8_Two.csproj.CoreCompileInputs.cache
+D:\Magbusjap\База знаний разработчика\000. New C# поток\Homework_8\homework8_Two\obj\Debug\homework8_Two.exe
+D:\Magbusjap\База знаний разработчика\000. New C# поток\Homework_8\homework8_Two\obj\Debug\homework8_Two.pdb

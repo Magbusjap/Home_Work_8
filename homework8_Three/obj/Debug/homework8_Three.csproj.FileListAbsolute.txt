@@ -1,0 +1,6 @@
+D:\Magbusjap\База знаний разработчика\000. New C# поток\Homework_8\homework8_Three\bin\Debug\homework8_Three.exe.config
+D:\Magbusjap\База знаний разработчика\000. New C# поток\Homework_8\homework8_Three\bin\Debug\homework8_Three.exe
+D:\Magbusjap\База знаний разработчика\000. New C# поток\Homework_8\homework8_Three\bin\Debug\homework8_Three.pdb
+D:\Magbusjap\База знаний разработчика\000. New C# поток\Homework_8\homework8_Three\obj\Debug\homework8_Three.csproj.CoreCompileInputs.cache
+D:\Magbusjap\База знаний разработчика\000. New C# поток\Homework_8\homework8_Three\obj\Debug\homework8_Three.exe
+D:\Magbusjap\База знаний разработчика\000. New C# поток\Homework_8\homework8_Three\obj\Debug\homework8_Three.pdb
